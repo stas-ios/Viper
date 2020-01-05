@@ -1,0 +1,16 @@
+PODS:
+  - Viper (0.1.0)
+
+DEPENDENCIES:
+  - Viper (from `../`)
+
+EXTERNAL SOURCES:
+  Viper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Viper: ee9514459bcb1d5e724d1fb77e356b7743cf6858
+
+PODFILE CHECKSUM: 659dabe6efbea8dde9c5ef19e7b575f550c73eab
+
+COCOAPODS: 1.7.5
