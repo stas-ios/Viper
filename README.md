@@ -17,7 +17,7 @@ Viper is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'Viper'
+pod 'Viper', :git => 'https://github.com/stas-ios/Viper.git'
 ```
 
 ## Author
