@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kind</key>
+	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
+	<key>Description</key>
+	<string>A simple non-viper Cell implementing CellProtocol</string>
+	<key>Summary</key>
+	<string>A simple non-viper Cell implementing CellProtocol</string>
+	<key>SortOrder</key>
+	<string>99</string>
+</dict>
+</plist>
